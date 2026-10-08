@@ -1,0 +1,4 @@
+CARD NUMBER: 4242 4242 4242 4242   
+MM/YY: 12/34   
+CVC: 123   
+ZIP: Any 5 digits

@@ -1,0 +1,12 @@
+JHU Plant Care Platform - API Testing Summary
+==============================================
+Test Run Timestamp: Mon Oct  6 11:27:22 EDT 2025
+Results Directory: ../results/manual_test_results
+
+Test Results:
+
+Next Steps:
+1. Review individual test result files
+2. Check for any error responses
+3. Verify API functionality meets requirements
+4. Document any issues found
